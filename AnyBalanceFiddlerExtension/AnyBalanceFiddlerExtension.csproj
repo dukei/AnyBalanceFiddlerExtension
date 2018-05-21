@@ -41,8 +41,8 @@
     <Content Include="favicon.ico" />
   </ItemGroup>
   <ItemGroup>
-    <Reference Include="Fiddler.NET2">
-      <HintPath>..\..\..\krawlly\Fiddler.NET2.exe</HintPath>
+    <Reference Include="Fiddler">
+      <HintPath>..\Fiddler.exe</HintPath>
     </Reference>
     <Reference Include="System" />
   </ItemGroup>
